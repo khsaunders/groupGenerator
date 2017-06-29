@@ -1,6 +1,6 @@
 #taught to me by @thomftz
 
-students = ['Parker', 'Grant', 'Robert', 'Enoc', 'Kelly', 'Georgia', 'Chris', 'Wyatt', 'Victoria', 'Ben', 'Brett', 'Sho', 'Helen', 'Jamie', 'Alex', 'Emma', 'Simran', 'Shontae', 'Seth', 'Ree', 'Kyle', 'Brandon']
+students = ['Parker', 'Grant', 'Robert', 'Enoc', 'Kelly', 'Georgia', 'Chris', 'Wyatt', 'Victoria', 'Ben', 'Brett', 'Sho', 'Helen', 'Jamie', 'Alex', 'Emma', 'Simran', 'Shontae', 'Seth', 'Ree', 'Kyle', 'Brandon', 'Josh']
 
 puts "How many students do you want grouped together?"
 group = gets.to_i
